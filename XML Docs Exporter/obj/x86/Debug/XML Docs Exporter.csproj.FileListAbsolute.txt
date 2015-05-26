@@ -1,8 +1,9 @@
 C:\ActioNet\XML Docs Exporter\bin\Debug\XML Docs Exporter.exe
 C:\ActioNet\XML Docs Exporter\bin\Debug\XML Docs Exporter.pdb
 C:\ActioNet\XML Docs Exporter\obj\x86\Debug\XML Docs Exporter.csprojResolveAssemblyReference.cache
-C:\ActioNet\XML Docs Exporter\obj\x86\Debug\XML_Docs_Exporter.IAAXMLExporter.resources
 C:\ActioNet\XML Docs Exporter\obj\x86\Debug\XML_Docs_Exporter.Properties.Resources.resources
 C:\ActioNet\XML Docs Exporter\obj\x86\Debug\XML Docs Exporter.csproj.GenerateResource.Cache
 C:\ActioNet\XML Docs Exporter\obj\x86\Debug\XML Docs Exporter.exe
 C:\ActioNet\XML Docs Exporter\obj\x86\Debug\XML Docs Exporter.pdb
+C:\ActioNet\XML Docs Exporter\obj\x86\Debug\XML_Docs_Exporter.XMLDocsExporter.resources
+C:\ActioNet\XML Docs Exporter\obj\x86\Debug\XML_Docs_Exporter.ManualFileUploader.resources

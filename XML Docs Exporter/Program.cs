@@ -15,7 +15,8 @@ namespace XML_Docs_Exporter
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new IAAXMLExporter());
+            Application.Run(new XMLDocsExporter());
+            //Application.Run(new ManualFileUploader());
         }
     }
 }
